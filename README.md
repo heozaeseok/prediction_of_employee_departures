@@ -33,7 +33,7 @@ SVM과 의사결정나무 모델을 활용하여 예측력과 해석 가능성�
 - **대표 변수**:
   - 수치형: `Age`, `Years at Company`, `Monthly Income`, `Distance from Home`, `Company Tenure`
   - 범주형: `Job Role`, `Overtime`, `Marital Status`, `Job Satisfaction`, `Work-Life Balance`, `Remote Work` 등 18개
-
+ 
 <br/>
 
 ## 모델링 및 성능 요약
