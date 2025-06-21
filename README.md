@@ -12,7 +12,7 @@ SVM과 의사결정나무 모델을 활용하여 예측력과 해석 가능성�
 - **데이터 출처**: [Employee Attrition Dataset (Kaggle)](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset)
 - **사용 모델**:
   - Support Vector Machine (SVM)
-  - Decision Tree 
+  - Decision Tree
 
 <br/>
 
